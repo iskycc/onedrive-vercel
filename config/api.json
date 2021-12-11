@@ -1,7 +1,7 @@
 {
-  "clientId": "d87bcc39-1750-4ca0-ad54-f8d0efbb2735",
-  "redirectUri": "http://localhost",
-  "base": "/Public",
-  "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
-  "driveApi": "https://graph.microsoft.com/v1.0/me/drive"
+  "clientId": "faacf245-deb1-44d5-b9a1-7f27eec1fd40",
+  "redirectUri": "http://localhost:3000",
+  "base": "/",
+  "authApi": "https://login.chinacloudapi.cn/common/oauth2/v2.0/token",
+  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/lovedit.sharepoint.cn,dacf5989-97eb-4634-98c1-cf5fa2042990,ba6fffea-0176-426a-80bb-caeea1b23649/drive"
 }
