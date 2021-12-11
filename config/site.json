@@ -7,7 +7,7 @@
     "400",
     "600"
   ],
-  "footer": "<a href="http://beian.miit.gov.cn/">粤ICP备19084442号-1</a>",
+  "footer": "<a href=\"http://beian.miit.gov.cn/\">粤ICP备19084442号-1</a>",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
