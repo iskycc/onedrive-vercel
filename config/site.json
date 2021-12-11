@@ -1,20 +1,19 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive Index",
+  "title": "Libv Download",
   "maxItems": 100,
   "googleFont": "Rubik",
   "googleFontWeights": [
     "400",
     "600"
   ],
-  "footer": "Powered by <a class=\"hover:underline\" href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
+  "footer": "<a href="http://beian.miit.gov.cn/">粤ICP备19084442号-1</a>",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
   "contact": {
-    "email": "mailto:spencer.wushangbo@gmail.com",
-    "telegram": "https://t.me/realSpencerWoo",
-    "github": "https://github.com/spencerwooo/onedrive-vercel-index"
+    "email": "mailto:libv@miaodiapp.com",
+    "telegram": "https://jq.qq.com/?_wv=1027&k=gdGYvBMJ"
   }
 }
