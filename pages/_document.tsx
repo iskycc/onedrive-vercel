@@ -16,7 +16,7 @@ class MyDocument extends Document {
             }:wght@${siteConfig.googleFontWeights.join(';')}&display=swap`}
             rel="stylesheet"
           />
-          <script>
+          <script dangerouslySetInnerHTML={{__html: `
             var _hmt = _hmt || [];
             (function() {
               var hm = document.createElement("script");
@@ -24,6 +24,7 @@ class MyDocument extends Document {
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+        `}}
         </script>
         </Head>
         <body>
