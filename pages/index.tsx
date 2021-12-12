@@ -11,6 +11,15 @@ export default function Home() {
     <div className="dark:bg-gray-900 flex flex-col items-center justify-center min-h-screen bg-white">
       <Head>
         <title>{siteConfig.title}</title>
+        <script dangerouslySetInnerHTML={{__html: `
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?a9e2f0db35e95bf03a813ccfee1bcb26";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+        `}}/>
       </Head>
 
       <main className="bg-gray-50 dark:bg-gray-800 flex flex-col flex-1 w-full">
