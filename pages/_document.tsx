@@ -16,16 +16,6 @@ class MyDocument extends Document {
             }:wght@${siteConfig.googleFontWeights.join(';')}&display=swap`}
             rel="stylesheet"
           />
-          <script dangerouslySetInnerHTML={{__html: `
-            var _hmt = _hmt || [];
-            (function() {
-              var hm = document.createElement("script");
-              hm.src = "https://hm.baidu.com/hm.js?a9e2f0db35e95bf03a813ccfee1bcb26";
-              var s = document.getElementsByTagName("script")[0]; 
-              s.parentNode.insertBefore(hm, s);
-            })();
-        `}}
-        </script>
         </Head>
         <body>
           <Main />
