@@ -1,5 +1,5 @@
 {
-  "clientId": "9da5ccdc-ebeb-44c8-89a1-7c1053e107f3",
+  "clientId": "faacf245-deb1-44d5-b9a1-7f27eec1fd40",
   "redirectUri": "http://localhost",
   "base": "/",
   "authApi": "https://login.chinacloudapi.cn/common/oauth2/v2.0/token",
